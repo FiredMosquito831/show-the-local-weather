@@ -1,0 +1,15 @@
+{
+  "current": {
+    "temperature_2m": 5.0,
+    "weather_code": 75,
+    "wind_speed_10m": 22.4,
+    "relative_humidity_2m": 70
+  },
+  "daily": {
+    "time": ["2026-11-04", "2026-11-05", "2026-11-06"],
+    "weather_code": [63, 95, 0],
+    "temperature_2m_max": [8.1, 12.4, 18.0],
+    "temperature_2m_min": [3.2, 6.5, 10.1],
+    "wind_speed_10m": [15.2, 18.9, 7.3]
+  }
+}
